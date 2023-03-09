@@ -1,2 +1,2 @@
 # Curso de PHP
- Arquivos criados enquanto eu realizava o curso de PHP do canal Cursoemvideo
+ Arquivos criados durante a realização do curso de PHP do canal Cursoemvideo
